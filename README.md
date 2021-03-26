@@ -16,7 +16,8 @@
    Technologies used: 
    - **HTML;**
    - **CSS;**
-   - **JavaScript.**
+   - **JavaScript;**
+   - **Gulp.**
    
    [Link to the project](https://ilyachernyaevdev.github.io/WindowMarket/)
    
@@ -29,7 +30,8 @@
    Technologies used: 
    - **HTML;**
    - **CSS;**
-   - **JavaScript.**
+   - **JavaScript;**
+   - **Webpack**.
    
    [Link to the project](https://ilyachernyaevdev.github.io/RickAndMorty/)
    
@@ -43,7 +45,8 @@
    - **React;**
    - **MATERIAL-UI;**
    - **HTML;**
-   - **CSS.**
+   - **CSS;**
+   - **Webpack.**
    
    [Link to the project](https://ilyachernyaevdev.github.io/react-quiz-app/)
    
@@ -56,7 +59,8 @@
    Technologies used: 
    - **HTML;**
    - **SCSS;**
-   - **JQuery.**
+   - **JQuery;**
+   - **Gulp.**
   
    [Link to the project](https://ilyachernyaevdev.github.io/RunSmart/)
    
