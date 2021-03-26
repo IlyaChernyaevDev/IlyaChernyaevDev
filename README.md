@@ -1,6 +1,11 @@
-👋 Hi, I’m Ilya Chernyaev, frontend developer from Russia. Currently learning  cool stuff, like React and algorithms and structures data.
+<h1 align="center">Hi, 👋 I’m Ilya</h1>
+<h3 align="center">Frontend developer from Novodvinsk, Russia.</h3>
 
-:email: My email: ilyachernyaevdev@gmail.com
+🌱 Currently learning  cool stuff, like React and algorithms and structures data.
+
+:email: How to reach me ilyachernyaevdev@gmail.com
+
+### Languages and Tools:
 
 :page_facing_up: List of my recent projects:
 
