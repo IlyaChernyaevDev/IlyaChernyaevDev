@@ -53,17 +53,3 @@
    [Link to the project's github](https://github.com/IlyaChernyaevDev/react-quiz-app)
    
    ![react-quiz-app](https://user-images.githubusercontent.com/62256669/111737729-2a861d80-8891-11eb-891c-133ec841091b.gif)
-
-- **RunSmart** - website for the sale of heart rate monitors.
-
-   Technologies used: 
-   - **HTML;**
-   - **SCSS;**
-   - **JQuery;**
-   - **Gulp.**
-  
-   [Link to the project](https://ilyachernyaevdev.github.io/RunSmart/)
-   
-   [Link to the project's github](https://github.com/IlyaChernyaevDev/RunSmart)
-   
-   ![run-smart](https://user-images.githubusercontent.com/62256669/111336951-b8da8380-8686-11eb-829c-143c1f7cb7b2.gif)
